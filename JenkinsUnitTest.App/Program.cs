@@ -12,6 +12,7 @@ namespace JenkinsUnitTest.App
         public static string CreateMessage()
         {
             return "This is Jenkins Test";
+            string a = "3";
         }
     }
 }
